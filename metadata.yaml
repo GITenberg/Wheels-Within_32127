@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '32106'
     url: http://www.gutenberg.org/2009/agents/32106
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32127#Wheels-Within
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-04-24'
 gutenberg_type: Text
