@@ -1,0 +1,41 @@
+_repo: Wheels-Within_32127
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sibley, Don
+    aliases:
+    - Sibley, Donald
+    - Dibley, Don
+    gutenberg_agent_id: '35673'
+    url: http://www.gutenberg.org/2009/agents/35673
+covers:
+- cover_type: archival
+  image_path: 32127-h/images/cover.jpg
+creator:
+  author:
+    agent_name: De Vet, Charles V. (Charles Vincent)
+    aliases:
+    - De Vet, Charles Vincent
+    - DeVet, Charles V.
+    - Vet, Charles V. de
+    birthdate: 1911
+    deathdate: 1997
+    gutenberg_agent_id: '32106'
+    url: http://www.gutenberg.org/2009/agents/32106
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32127'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Science fiction'
+title: Wheels Within
+url: http://www.gutenberg.org/ebooks/32127
